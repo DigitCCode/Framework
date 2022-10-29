@@ -78,4 +78,6 @@ small {
   margin-left: auto !important;
   margin-right: auto !important;
   margin-bottom: 1rem !important;
+  padding-right: 15px;
+  padding-left: 15px;
 }
