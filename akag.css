@@ -70,3 +70,12 @@ strong {
 small {
   font-size: 65%;
 }
+
+/*======================================================*/
+
+.a-box {
+	margin-top: 1rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1rem;
+}
