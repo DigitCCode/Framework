@@ -37,3 +37,12 @@ footer,header,hgroup,main,menu,nav,section {
 	display:block
 }
 
+b,
+strong {
+  font-weight: bolder;
+}
+
+small {
+  font-size: 60%;
+}
+
