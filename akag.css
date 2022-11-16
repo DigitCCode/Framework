@@ -73,11 +73,12 @@ small {
 
 /*======================================================*/
 
-.a-box {
-  margin-top: 1rem !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  margin-bottom: 1rem !important;
-  padding-right: 15px;
-  padding-left: 15px;
+.card {
+	padding: 32px;
+	background: #fff;
+	border-radius: 8px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	box-shadow: 0 0 5px #cfcfcf;
 }
