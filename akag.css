@@ -1,7 +1,7 @@
 /*!
- * Akag v4.0.0 (https://getbootstrap.com)
- * Copyright 2011-2018 The Akag Authors
- * Copyright 2011-2018 Igor Henrique da Silva.
+ * Akag v1.0.0 (https://Akag.com)
+ * Copyright 2022-today The Akag Authors
+ * Copyright 2022-today Igor Henrique da Silva.
  * Licensed under MIT (https://digitccode.github.io/framework/akag.css)
  */
 
@@ -42,22 +42,18 @@ a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
-
 a:hover {
   text-decoration: underline;
 }
-
 a:not([href]):not([tabindex]) {
   color: inherit;
   text-decoration: none;
 }
-
 a:not([href]):not([tabindex]):hover,
 a:not([href]):not([tabindex]):focus {
   color: inherit;
   text-decoration: none;
 }
-
 a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
@@ -81,4 +77,21 @@ small {
 	flex-direction: column;
 	align-items: center;
 	box-shadow: 0 0 5px #cfcfcf;
+}
+
+/*Área de botõe*/
+
+.bt-evento {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	font-size: 30px;
+	background: rgb(223, 0, 0);
+	color: #fff;
+	opacity: 0.9;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
 }
