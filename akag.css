@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * Akag v1.0.0 (https://Akag.com)
  * Copyright 2022-today The Akag Authors
  * Copyright 2022-today Igor Henrique da Silva.
@@ -68,6 +68,10 @@ small {
 }
 
 /*======================================================*/
+
+.box {
+	margin: 5vh auto;
+}
 
 .card {
 	padding: 32px;
